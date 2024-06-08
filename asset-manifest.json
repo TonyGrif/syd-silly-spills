@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/syd-silly-spills/static/css/main.f855e6bc.css",
+    "main.js": "/syd-silly-spills/static/js/main.32362151.js",
+    "static/js/453.56c79855.chunk.js": "/syd-silly-spills/static/js/453.56c79855.chunk.js",
+    "static/media/logo.svg": "/syd-silly-spills/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/syd-silly-spills/index.html",
+    "main.f855e6bc.css.map": "/syd-silly-spills/static/css/main.f855e6bc.css.map",
+    "main.32362151.js.map": "/syd-silly-spills/static/js/main.32362151.js.map",
+    "453.56c79855.chunk.js.map": "/syd-silly-spills/static/js/453.56c79855.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.32362151.js"
+  ]
+}
